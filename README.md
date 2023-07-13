@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-roodbari1)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/mim._.rd/)](https://www.instagram.com/mim._.rd)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mohammadroodbari9@gmail.com)
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/MohammadRoodbari)
+[![Github](https://img.shields.io/github/followers/MohammadRoodbari?label=Follow&style=social)](https://github.com/MohammadRoodbari)
 
 
 ### 🖥 Skills
