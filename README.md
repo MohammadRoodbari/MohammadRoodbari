@@ -15,9 +15,12 @@
 - Machine Learning
 - Deep Learning
 - Natural Language Processing
+- computer vision
+  
 ### ⚙️ Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=Python&color=3b1c1c) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=for-the-badge&logo=TensorFlow&color=3b1c1c) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=for-the-badge&logo=PyTorch&color=3b1c1c) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=for-the-badge&logo=Scikit-Learn&color=3b1c1c) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&logo=Pandas&color=3b1c1c) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=for-the-badge&logo=Numpy&color=3b1c1c) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=for-the-badge&logo=Matplotlib&color=3b1c1c) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=Visual-Studio-Code&color=3b1c1c)
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=Python&color=3b1c1c) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=for-the-badge&logo=TensorFlow&color=3b1c1c) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=for-the-badge&logo=PyTorch&color=3b1c1c) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=for-the-badge&logo=Scikit-Learn&color=3b1c1c) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&logo=Pandas&color=3b1c1c) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=for-the-badge&logo=Numpy&color=3b1c1c) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=for-the-badge&logo=Matplotlib&color=3b1c1c) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535)![Bootstrap](https://img.shields.io/badge/JavaScript-F7DF11?logo=javascript&color=353535&style=flat-square) ![Bootstrap](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&color=353535&style=flat-square) ![Bootstrap](https://img.shields.io/badge/-Linux-grey?style=flat-square&logo=linux&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=Visual-Studio-Code&color=3b1c1c)
+
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammadRoodbari&show_icons=true&locale=en&layout=compact" alt="MohammadRoodbari" />
